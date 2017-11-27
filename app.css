@@ -4,8 +4,6 @@ body {
     margin-right: 0px;
     margin-bottom: 0px;
     margin-left: 0px;
-    font-family: 'Barlow Semi Condensed', sans-serif;
-}
 header {
     text-align: center;
     background: url(images/sky.jpg);
@@ -24,6 +22,7 @@ h2 {
 p, img {
     margin-left: 10px;
     margin-right: 10px;
+    font-family: 'Barlow Semi Condensed', sans-serif;
 }
 a {   
     color: white;
