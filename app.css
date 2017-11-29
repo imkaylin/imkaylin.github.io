@@ -37,11 +37,11 @@ article {
 @media (max-width: 500px){
     
 }
-#list {
+.list {
     padding: 15px;
     background: rgba(0,0,0,0.5);
 }
-#links {
+.links {
     display: inline;
     padding: 0px 10px 0px 10px;
 }
