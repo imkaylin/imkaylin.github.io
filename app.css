@@ -10,7 +10,6 @@ header {
     background: url(images/sky.jpg);
     background-size: cover;
     padding: 20px 0px 0px 0px;
-    max-width: 500px;
 }
 h1 {
     font-family: 'Just Another Hand', cursive;  
